@@ -289,7 +289,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  font: 12px Montserrat;
  text-align: justify;
  margin: 0 20px;
- color: #666;
+ color: #FFF;
  max-height: calc(100% - 110px);
  overflow: auto;
  padding-right: 5px;
@@ -313,7 +313,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  text-align: center;
  font-size: 15px;
  text-transform: uppercase;
- color: #666;
+ color: #FFF;
 }
 .linksM98 {
  text-align: center;
@@ -337,7 +337,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  text-align: left;
  margin: 20px;
  font-size: 30px;
- color: #666;
+ color: #FFF;
  line-height: 150%;
  height: calc(100% - 50px);
  overflow: auto;

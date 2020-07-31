@@ -48,7 +48,7 @@
 }
 .pagM98 {
  backface-visibility: hidden;
- background: #000;
+ background: #31302f;
  padding: 30px;
  color: #db9f48;
  font-size: 8px;
@@ -75,7 +75,7 @@
  top: calc(100% + 10px);
  left: 175px;
  padding: 4px 0 2px;
- background: #FFF;
+ background: #31302f;
  display: none; 
  margin-left: 70px;
  width: 21px;

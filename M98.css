@@ -3,10 +3,10 @@
 }
 .M98 div::-webkit-scrollbar {
  width: 3px !important;
- background: #31302f !important;
+ background: #0006 !important;
 }
 .M98 div::-webkit-scrollbar-thumb {
- background: #31302f !important;
+ background: #0006 !important;
 }
 .M98, .M98 * {
  transition: 1s;
@@ -55,7 +55,7 @@
  text-align: left;
 }
 .pagM98:nth-of-type(odd) {
- background: linear-gradient(to right, #DDD, #FFF 1px);
+ background: linear-gradient(to right, #DDD, #31302f 1px);
  text-align: right;
 }
 #M98:checked ~ .porM98.aa {
@@ -82,7 +82,7 @@
  text-align: center;
  border-radius: 50%;
  border: 1px solid #DDD;
- box-shadow: 0 0 0 3px #FFF;
+ box-shadow: 0 0 0 3px #31302f;
  color: #AAA;
 }
 .conM98 .bpM98:hover {

@@ -48,7 +48,7 @@
 }
 .pagM98 {
  backface-visibility: hidden;
- background: #31302f;
+ background: #cdad87;
  padding: 30px;
  color: #EEE;
  font-size: 8px;
@@ -82,7 +82,7 @@
  text-align: center;
  border-radius: 50%;
  border: 1px solid #DDD;
- box-shadow: 0 0 0 3px #31302f;
+ box-shadow: 0 0 0 3px #cdad87;
  color: #AAA;
 }
 .conM98 .bpM98:hover {
@@ -395,7 +395,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  transition: .5s !important;
 }
 .ldosM98.mus span:hover {
-background: #31302f;
+background: #cdad87;
  letter-spacing: 1px;
 }
 .ldosM98.mus span:hover div {
@@ -421,7 +421,7 @@ background: #31302f;
 }
 .ldosM98.mdos span {
  display: inline-block;
- background: #31302f;
+ background: #cdad87;
  margin: 5px;
  width: calc(100% / 3 - 10px);
  height: 80px;

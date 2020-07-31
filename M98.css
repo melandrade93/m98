@@ -294,11 +294,6 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  overflow: auto;
  padding-right: 5px;
 }
-.xxM98::first-letter {
- font: 60px Ruge Boogie;
- float: left;
- margin: 13px 10px 0 5px;
-}
 .ddM98 {
  margin: 20px 30px;
  text-align: center;

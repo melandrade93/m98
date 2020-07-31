@@ -376,7 +376,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  display: inline-block;
  width: 100%;
  padding: 7px 0;
- background: #EEE;
+ background: #31302f;
  margin: 5px 0;
  letter-spacing: 2px;
  transform: scale(.8);
@@ -395,7 +395,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  transition: .5s !important;
 }
 .ldosM98.mus span:hover {
-background: #EEE;
+background: #31302f;
  letter-spacing: 1px;
 }
 .ldosM98.mus span:hover div {
@@ -421,7 +421,7 @@ background: #EEE;
 }
 .ldosM98.mdos span {
  display: inline-block;
- background: #EEE;
+ background: #31302f;
  margin: 5px;
  width: calc(100% / 3 - 10px);
  height: 80px;

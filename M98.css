@@ -1,13 +1,6 @@
  .M98 > br, .conM98 > br, .M98 input {
  display: none;
 }
-.M98 div::-webkit-scrollbar {
- width: 3px !important;
- background: #0006 !important;
-}
-.M98 div::-webkit-scrollbar-thumb {
- background: #0006 !important;
-}
 .M98, .M98 * {
  transition: 1s;
  box-sizing: border-box;
@@ -19,7 +12,7 @@
 }
 .conM98 {
  width: 350px;
- height: 590px;
+ height: 550px;
  margin: auto;
  position: relative;
  transform-style: preserve-3d;
@@ -48,14 +41,14 @@
 }
 .pagM98 {
  backface-visibility: hidden;
- background: #c1b7aa
+ background: #FFF;
  padding: 30px;
- color: #EEE;
+ color: #b4b4b4;
  font-size: 8px;
  text-align: left;
 }
 .pagM98:nth-of-type(odd) {
- background: linear-gradient(to right, #DDD, #c1b7aa1px);
+ background: linear-gradient(to right, #DDD, #FFF 1px);
  text-align: right;
 }
 #M98:checked ~ .porM98.aa {
@@ -75,14 +68,14 @@
  top: calc(100% + 10px);
  left: 175px;
  padding: 4px 0 2px;
- background: #c1b7aa;
+ background: #FFF;
  display: none; 
  margin-left: 70px;
  width: 21px;
  text-align: center;
  border-radius: 50%;
  border: 1px solid #DDD;
- box-shadow: 0 0 0 3px #c1b7aa;
+ box-shadow: 0 0 0 3px #FFF;
  color: #AAA;
 }
 .conM98 .bpM98:hover {
@@ -289,10 +282,15 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  font: 12px Montserrat;
  text-align: justify;
  margin: 0 20px;
- color: #FFF;
+ color: #666;
  max-height: calc(100% - 110px);
  overflow: auto;
  padding-right: 5px;
+}
+.xxM98::first-letter {
+ font: 60px Ruge Boogie;
+ float: left;
+ margin: 13px 10px 0 5px;
 }
 .ddM98 {
  margin: 20px 30px;
@@ -313,7 +311,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  text-align: center;
  font-size: 15px;
  text-transform: uppercase;
- color: #FFF;
+ color: #666;
 }
 .linksM98 {
  text-align: center;
@@ -337,7 +335,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  text-align: left;
  margin: 20px;
  font-size: 30px;
- color: #FFF;
+ color: #666;
  line-height: 150%;
  height: calc(100% - 50px);
  overflow: auto;
@@ -376,7 +374,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  display: inline-block;
  width: 100%;
  padding: 7px 0;
- background: #c1b7aa;
+ background: #EEE;
  margin: 5px 0;
  letter-spacing: 2px;
  transform: scale(.8);
@@ -395,7 +393,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  transition: .5s !important;
 }
 .ldosM98.mus span:hover {
-background: #c1b7aa;
+background: #EEE;
  letter-spacing: 1px;
 }
 .ldosM98.mus span:hover div {
@@ -421,7 +419,7 @@ background: #c1b7aa;
 }
 .ldosM98.mdos span {
  display: inline-block;
- background: #c1b7aa;
+ background: #EEE;
  margin: 5px;
  width: calc(100% / 3 - 10px);
  height: 80px;

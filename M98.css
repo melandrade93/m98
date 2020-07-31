@@ -48,14 +48,14 @@
 }
 .pagM98 {
  backface-visibility: hidden;
- background: #cebca6;
+ background: #c1b7aa
  padding: 30px;
  color: #EEE;
  font-size: 8px;
  text-align: left;
 }
 .pagM98:nth-of-type(odd) {
- background: linear-gradient(to right, #DDD, #cebca6 1px);
+ background: linear-gradient(to right, #DDD, #c1b7aa1px);
  text-align: right;
 }
 #M98:checked ~ .porM98.aa {
@@ -75,14 +75,14 @@
  top: calc(100% + 10px);
  left: 175px;
  padding: 4px 0 2px;
- background: #cebca6;
+ background: #c1b7aa;
  display: none; 
  margin-left: 70px;
  width: 21px;
  text-align: center;
  border-radius: 50%;
  border: 1px solid #DDD;
- box-shadow: 0 0 0 3px #cebca6;
+ box-shadow: 0 0 0 3px #c1b7aa;
  color: #AAA;
 }
 .conM98 .bpM98:hover {
@@ -376,7 +376,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  display: inline-block;
  width: 100%;
  padding: 7px 0;
- background: #cebca6;
+ background: #c1b7aa;
  margin: 5px 0;
  letter-spacing: 2px;
  transform: scale(.8);
@@ -395,7 +395,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  transition: .5s !important;
 }
 .ldosM98.mus span:hover {
-background: #cebca6;
+background: #c1b7aa;
  letter-spacing: 1px;
 }
 .ldosM98.mus span:hover div {
@@ -421,7 +421,7 @@ background: #cebca6;
 }
 .ldosM98.mdos span {
  display: inline-block;
- background: #cebca6;
+ background: #c1b7aa;
  margin: 5px;
  width: calc(100% / 3 - 10px);
  height: 80px;

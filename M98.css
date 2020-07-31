@@ -3,10 +3,10 @@
 }
 .M98 div::-webkit-scrollbar {
  width: 3px !important;
- background: #0006 !important;
+ background: #31302f !important;
 }
 .M98 div::-webkit-scrollbar-thumb {
- background: #0006 !important;
+ background: #31302f !important;
 }
 .M98, .M98 * {
  transition: 1s;

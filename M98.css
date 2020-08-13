@@ -25,7 +25,7 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  height: 206px;
+  height: 306px;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -47,7 +47,7 @@
 }
 .aryatxt {
   column-count: 2;
-  column-gap: 30px;
+  column-gap: 10px;
   text-align: justify;
   font: 12px calibri;
 }

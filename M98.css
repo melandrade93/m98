@@ -3,10 +3,10 @@
 }
 .M98 div::-webkit-scrollbar {
  width: 3px !important;
- background-image: url(imgur.com/6IqSgfH.png); !important;
+ background: #0006 !important;
 }
 .M98 div::-webkit-scrollbar-thumb {
- background-image: url(imgur.com/6IqSgfH.png); !important;
+ background: #0006 !important;
 }
 .M98, .M98 * {
  transition: 1s;
@@ -48,15 +48,14 @@
 }
 .pagM98 {
  backface-visibility: hidden;
- background-image: url(imgur.com/6IqSgfH.png);
+ background: #e7e7e7;
  padding: 30px;
  color: #b4b4b4;
  font-size: 8px;
  text-align: left;
 }
 .pagM98:nth-of-type(odd) {
- background-image: url(imgur.com/6IqSgfH.png);
- background: linear-gradient(to right, #DDD, #FFF 1px);
+ background: linear-gradient(to right, #DDD, #e7e7e7 1px);
  text-align: right;
 }
 #M98:checked ~ .porM98.aa {
@@ -76,14 +75,14 @@
  top: calc(100% + 10px);
  left: 175px;
  padding: 4px 0 2px;
- background-image: url(imgur.com/6IqSgfH.png);
+ background: #e7e7e7;
  display: none; 
  margin-left: 70px;
  width: 21px;
  text-align: center;
  border-radius: 50%;
  border: 1px solid #DDD;
- box-shadow: 0 0 0 3px #e3e9e9;
+ box-shadow: 0 0 0 3px #FFF;
  color: #AAA;
 }
 .conM98 .bpM98:hover {
@@ -382,7 +381,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  display: inline-block;
  width: 100%;
  padding: 7px 0;
- background-image: url(imgur.com/6IqSgfH.png);
+ background: #EEE;
  margin: 5px 0;
  letter-spacing: 2px;
  transform: scale(.8);
@@ -401,7 +400,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  transition: .5s !important;
 }
 .ldosM98.mus span:hover {
-background-image: url(imgur.com/6IqSgfH.png);
+background: #EEE;
  letter-spacing: 1px;
 }
 .ldosM98.mus span:hover div {
@@ -427,7 +426,7 @@ background-image: url(imgur.com/6IqSgfH.png);
 }
 .ldosM98.mdos span {
  display: inline-block;
- background-image: url(imgur.com/6IqSgfH.png);
+ background: #EEE;
  margin: 5px;
  width: calc(100% / 3 - 10px);
  height: 80px;
@@ -438,7 +437,7 @@ background-image: url(imgur.com/6IqSgfH.png);
  transition: .5s !important;
 }
 .ldosM98.mdos span:hover {
- background-image: url(imgur.com/6IqSgfH.png);
+ background: #999;
  font-size: 30px;
  color: #FFF;
 }

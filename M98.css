@@ -3,10 +3,10 @@
 }
 .M98 div::-webkit-scrollbar {
  width: 3px !important;
- background: #0006 !important;
+ background-image: url(imgur.com/6IqSgfH.png); !important;
 }
 .M98 div::-webkit-scrollbar-thumb {
- background: #0006 !important;
+ background-image: url(imgur.com/6IqSgfH.png); !important;
 }
 .M98, .M98 * {
  transition: 1s;
@@ -55,7 +55,8 @@
  text-align: left;
 }
 .pagM98:nth-of-type(odd) {
- background: linear-gradient(to right, #DDD, #background-image: url(imgur.com/6IqSgfH.png); 1px);
+ background-image: url(imgur.com/6IqSgfH.png);
+ background: linear-gradient(to right, #DDD, #FFF 1px);
  text-align: right;
 }
 #M98:checked ~ .porM98.aa {
@@ -381,7 +382,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  display: inline-block;
  width: 100%;
  padding: 7px 0;
- background: #EEE;
+ background-image: url(imgur.com/6IqSgfH.png);
  margin: 5px 0;
  letter-spacing: 2px;
  transform: scale(.8);
@@ -400,7 +401,7 @@ div ~ .dosh, div ~ .tresh, div ~ div ~ .cua {
  transition: .5s !important;
 }
 .ldosM98.mus span:hover {
-background: #EEE;
+background-image: url(imgur.com/6IqSgfH.png);
  letter-spacing: 1px;
 }
 .ldosM98.mus span:hover div {
@@ -426,7 +427,7 @@ background: #EEE;
 }
 .ldosM98.mdos span {
  display: inline-block;
- background: #EEE;
+ background-image: url(imgur.com/6IqSgfH.png);
  margin: 5px;
  width: calc(100% / 3 - 10px);
  height: 80px;
@@ -437,7 +438,7 @@ background: #EEE;
  transition: .5s !important;
 }
 .ldosM98.mdos span:hover {
- background: #999;
+ background-image: url(imgur.com/6IqSgfH.png);
  font-size: 30px;
  color: #FFF;
 }

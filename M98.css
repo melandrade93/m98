@@ -48,14 +48,14 @@
 }
 .pagM98 {
  backface-visibility: hidden;
- background: #e3e9e9;
+ background-image: url(imgur.com/6IqSgfH.png);
  padding: 30px;
  color: #b4b4b4;
  font-size: 8px;
  text-align: left;
 }
 .pagM98:nth-of-type(odd) {
- background: linear-gradient(to right, #DDD, #e3e9e9 1px);
+ background-image: url(imgur.com/6IqSgfH.png);
  text-align: right;
 }
 #M98:checked ~ .porM98.aa {
@@ -75,7 +75,7 @@
  top: calc(100% + 10px);
  left: 175px;
  padding: 4px 0 2px;
- background: #e3e9e9;
+ background-image: url(imgur.com/6IqSgfH.png);
  display: none; 
  margin-left: 70px;
  width: 21px;

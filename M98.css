@@ -48,14 +48,14 @@
 }
 .pagM98 {
  backface-visibility: hidden;
- background-img: url(https://i.imgur.com/24oRyiN.png);
+ background-img: url;https://i.imgur.com/24oRyiN.png;
  padding: 30px;
  color: #b4b4b4;
  font-size: 8px;
  text-align: left;
 }
 .pagM98:nth-of-type(odd) {
- background-img: url(https://i.imgur.com/24oRyiN.png);
+ background-img: url;https://i.imgur.com/24oRyiN.png;
  text-align: right;
 }
 #M98:checked ~ .porM98.aa {
@@ -75,7 +75,7 @@
  top: calc(100% + 10px);
  left: 175px;
  padding: 4px 0 2px;
- background-img: url(https://i.imgur.com/24oRyiN.png);
+ background-img: url;https://i.imgur.com/24oRyiN.png;
  display: none; 
  margin-left: 70px;
  width: 21px;

@@ -55,7 +55,7 @@
  text-align: left;
 }
 .pagM98:nth-of-type(odd) {
- background: linear-gradient(to right, #DDD, #imgur.com/6IqSgfH.png; 1px);
+ background: linear-gradient(to right, #DDD, #background-image: url(imgur.com/6IqSgfH.png); 1px);
  text-align: right;
 }
 #M98:checked ~ .porM98.aa {

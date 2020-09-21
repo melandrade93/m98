@@ -55,7 +55,7 @@
  text-align: left;
 }
 .pagM98:nth-of-type(odd) {
- background: linear-gradient(to right, #DDD, #FFF 1px);
+ background: linear-gradient(to right, #DDD, #transparent 1px);
  text-align: right;
 }
 #M98:checked ~ .porM98.aa {
@@ -75,14 +75,14 @@
  top: calc(100% + 10px);
  left: 175px;
  padding: 4px 0 2px;
- background: #FFF;
+ background: #transparent;
  display: none; 
  margin-left: 70px;
  width: 21px;
  text-align: center;
  border-radius: 50%;
  border: 1px solid #DDD;
- box-shadow: 0 0 0 3px #FFF;
+ box-shadow: 0 0 0 3px #transparent;
  color: #AAA;
 }
 .conM98 .bpM98:hover {
